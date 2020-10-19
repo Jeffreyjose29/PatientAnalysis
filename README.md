@@ -10,6 +10,6 @@ This file contains all the background studies conducted on the data such as regr
 
 A large majority of the classification study was conducted within the WEKA software: https://www.cs.waikato.ac.nz/ml/weka/
 
-### Honours.pynb
+### Honours ML.pynb
 
 This file is the Explainable Boosted Machine (EBM) implementation for the classification of high users and low users of secondary care.
